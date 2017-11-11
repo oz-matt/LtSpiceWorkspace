@@ -1,0 +1,21 @@
+Circuit: * C:\Projects\Aqua\Git-OzoraLabs\LtSpiceWorkspace\DualSpstFunctionCircuit.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Nov 11 15:22:57 2017
+Total elapsed time: 4.222 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 106194
+traniter = 106165
+tranpoints = 40036
+accept = 31825
+rejected = 8211
+matrix size = 42
+fillins = 17
+solver = Normal
+Matrix Compiler1: 2.93 KB object code size  1.9/1.1/[0.8]
+Matrix Compiler2: off  [1.1]/1.9/1.4
+
